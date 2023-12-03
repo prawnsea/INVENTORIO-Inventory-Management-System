@@ -1,2 +1,3 @@
-# INVENTORIO-Inventory-Management-System
-A reactJS based inventory management system (CRUD Application)
+# Inventorio (Reactjs CRUD application)
+
+A reactJS based inventory management system (CRUD Application).
